@@ -1,7 +1,6 @@
 # TCPandUDPcomparer
  Spring 2022
  
- ![image](https://user-images.githubusercontent.com/97318794/175310812-f6943c0f-96ba-4854-b4b4-dade1522129d.png)
+ ![1](https://user-images.githubusercontent.com/97318794/175311879-fc44239b-63d2-4166-bc0f-79bc3a1a6e96.png)
 
-
-![image](https://user-images.githubusercontent.com/97318794/175310652-a2ccaf0b-8b28-4b43-881e-a681eee66d06.png)
+![2](https://user-images.githubusercontent.com/97318794/175311904-da5092c1-619c-4893-9a82-11de57fd609c.png)
